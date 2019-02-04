@@ -4,6 +4,8 @@
 
 ###Installation
 
-> fork and clone
-> npm install
-> npm start
+```javascript
+//fork and clone
+npm install
+npm start
+```
