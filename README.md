@@ -2,7 +2,7 @@
 ## REACT
 ### We will build a trivia quiz app with react.
 
-####Installation
+###Installation
 
 > fork and clone
 > npm install
